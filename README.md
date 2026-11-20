@@ -77,6 +77,20 @@ passwords until it finds a match.
 8. Open the locked PDF file and enter the cracked password.
 9. Your PDF file will open.
 
+![](crack2.PNG)
+
 ![](nwcrack.PNG)
+
+
+# Tools & resources
+- John the Ripper: https://www.openwall.com/john/
+- Networkwalks Hash Calculator: https://networkwalks.com/hash-calculator/
+- Networkwalks Password Cracker: https://networkwalks.com/password-cracker/
+- PDF Hash Extractor: https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
+
+# Author
+**Safar Khan** Networkwalks Internee Batch B084N
+
+Linkedin: https://www.linkedin.com/in/saffarkhan/
 
 
